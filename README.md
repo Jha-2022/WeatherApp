@@ -14,7 +14,7 @@ Responsive and user-friendly interface suitable for desktop and mobile devices.
 
 ## Demo
 <p>
-    <img src="https://cocoindex.io/images/github.svg" alt="CocoIndex">
+    <img src="https://github.com/Jha-2022/DictionaryApp/blob/main/dictionaryAppfromhtmljscss.png" alt="dictionaryApp demo">
 </p>
 
 Technologies Used
