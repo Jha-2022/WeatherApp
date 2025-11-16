@@ -1,16 +1,16 @@
-...
-#WeatherApp
-...
+
+# WeatherApp
+
 A simple web application that provides real-time weather updates for any location using JavaScript, CSS, and HTML.​
 
-Features
+## Features
 Search and display live weather data for cities worldwide.​
 
 Provides weather details like temperature, humidity, and conditions.​
 
 Responsive and user-friendly interface.
 
-Demo
+## Demo
 Add a screenshot or a gif of your app in action here if available.
 
 Technologies Used
