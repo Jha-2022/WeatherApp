@@ -14,10 +14,10 @@ Responsive and user-friendly interface suitable for desktop and mobile devices.
 
 ## Demo
 <p>
-    <img src="https://github.com/Jha-2022/DictionaryApp/blob/main/dictionaryAppfromhtmljscss.png" alt="dictionaryApp demo">
+    <img src="https://github.com/Jha-2022/DictionaryApp/blob/main/dictionaryAppfromhtmljscss.png" height = 100px alt="dictionaryApp demo">
 </p>
 
-Technologies Used
+### Technologies Used
 
 JavaScript
 
