@@ -1,4 +1,6 @@
-**#WeatherApp
+```
+#WeatherApp
+```
 A simple web application that provides real-time weather updates for any location using JavaScript, CSS, and HTML.​
 
 Features
@@ -8,17 +10,17 @@ Provides weather details like temperature, humidity, and conditions.​
 
 Responsive and user-friendly interface.
 
-##Demo
+Demo
 Add a screenshot or a gif of your app in action here if available.
 
-##Technologies Used
+Technologies Used
 JavaScript
 
 CSS
 
 HTML
 
-##Getting Started
+Getting Started
 These instructions will get you a copy of the project up and running on your local machine.
 
 Prerequisites
