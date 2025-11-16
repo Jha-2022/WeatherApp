@@ -11,7 +11,7 @@ Provides weather details like temperature, humidity, and conditions.​
 Responsive and user-friendly interface.
 
 ## Demo
-Add a screenshot or a gif of your app in action here if available.
+<img src="">
 
 Technologies Used
 JavaScript
