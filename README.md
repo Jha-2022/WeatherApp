@@ -40,13 +40,11 @@ git clone https://github.com/Jha-2022/WeatherApp.git
 Navigate to the project directory:
 
 ```
-cd WeatherApp
+cd DictionaryApp
 ```
-(If required) Update your API key in the JavaScript files:
 
 ```
-js
-let apiKey = "Your OpenWeatherMap API Key";
+let apiKey = "https://api.dictionaryapi.dev/api/v2/entries/en/<word>";
 
 ```
 Open index.html in your browser to view the app.
