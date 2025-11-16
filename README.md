@@ -1,14 +1,16 @@
 
 # DictionaryApp
 
-A simple web application that provides real-time weather updates for any location using JavaScript, CSS, and HTML.​
+A simple web application that provides real-time word definitions, pronunciations, and usage examples using JavaScript, CSS, and HTML.​
+
 
 ## Features
-Search and display live weather data for cities worldwide.​
+Search and display definitions for words in real time.​
 
-Provides weather details like temperature, humidity, and conditions.​
+View details such as part of speech, pronunciation, synonyms, antonyms, and example sentences.​
 
-Responsive and user-friendly interface.
+Responsive and user-friendly interface suitable for desktop and mobile devices.
+
 
 ## Demo
 
@@ -24,9 +26,10 @@ HTML
 These instructions will get you a copy of the project up and running on your local machine.
 
 ### Prerequisites
-A modern web browser (Chrome, Firefox, etc.)
+A modern web browser (Chrome, Firefox, Edge, etc.)
 
-(If API is used) An OpenWeatherMap API key.​
+A Dictionary API key form Free Dictionary API is used.
+
 
 ## Installation
 Clone this repository:
